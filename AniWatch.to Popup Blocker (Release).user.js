@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         AniWatch.to Popup Blocker (Release)
 // @namespace    https://kapifrost.github.io/
+// @downloadURL  https://github.com/kapifrost/userscripts/raw/main/AniWatch.to%20Popup%20Blocker%20(Release).user.js
+// @updateURL    https://github.com/kapifrost/userscripts/raw/main/AniWatch.to%20Popup%20Blocker%20(Release).user.js
 // @version      1.0
 // @description  Remove AniWatch.To Popup Ads
 // @author       kapifrost
