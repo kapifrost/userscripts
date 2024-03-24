@@ -9,3 +9,9 @@ AniWatch Ad Blocker: [Install](https://github.com/kapifrost/userscripts/raw/main
 This one can block popup ads on AniWatch or HiAnime, whatever you call it now. Pop up ads don't open every 5 seconds with this userscript. Works on iOS Safari. Should not be affected by other ad blockers.
 
 ***
+
+Fmoviesz Ad Blocker: [Install](https://github.com/kapifrost/userscripts/raw/main/Fmoviesz.to%20Popup%20Blocker%20(Release).user.js)
+
+This one can block popup ads on Fmoviesz. Also works on iOS Safari. Should not be affected by other ad blockers.
+
+***
