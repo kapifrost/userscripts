@@ -28,3 +28,13 @@ This userscript tampers with this line of code, so that it thinks the ad is stil
 
 <!--<img src='https://github.com/kapifrost/userscripts/assets/158786297/8ba089a6-c289-467a-8175-0c47e3221e2b' width='400'>-->
 <img src='https://github.com/kapifrost/userscripts/assets/158786297/a148c830-4233-4b9b-951a-4fa7959297f9' width='400'>
+
+***
+
+10 Minute Mail No Ad Message: [Install](https://github.com/kapifrost/userscripts/raw/main/10%20Minute%20Mail%20No%20Ad%20Message.user.js)
+
+I understand that 10 minute mail needs ads to stay up, but i need an ad free site to stay sane. Removes the ad blocker message box from the window.
+
+<img src='https://github.com/kapifrost/userscripts/assets/158786297/9faec461-005b-4c2b-9508-75182edae2c2' width='400'>
+
+***
