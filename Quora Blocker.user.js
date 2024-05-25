@@ -5,7 +5,7 @@
 // @namespace    https://kapifrost.github.io/
 // @version      1.0
 // @description  improvements to quora
-// @author       You
+// @author       kapifrost
 // @match        https://www.quora.com/*
 // @match        http://www.quora.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=quora.com
