@@ -2,7 +2,7 @@
 // @name         YouTube Ad Block Detect Bypass (ABP)
 // @downloadURL  https://github.com/kapifrost/userscripts/raw/main/YouTube%20Ad%20Block%20Detect%20Bypass%20(ABP).user.js
 // @updateURL    https://github.com/kapifrost/userscripts/raw/main/YouTube%20Ad%20Block%20Detect%20Bypass%20(ABP).user.js
-// @namespace    https://kapifrost.github.io
+// @namespace    https://kapifrost.github.io/
 // @version      1.0
 // @description  Bypass youtube's ad blocker detector prevention
 // @author       kapifrost
