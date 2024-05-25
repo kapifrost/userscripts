@@ -38,3 +38,17 @@ I understand that 10 minute mail needs ads to stay up, but i need an ad free sit
 <img src='https://github.com/kapifrost/userscripts/assets/158786297/9faec461-005b-4c2b-9508-75182edae2c2' width='400'>
 
 ***
+
+Quora Blocker: [Install](https://github.com/kapifrost/userscripts/raw/main/10%20Minute%20Mail%20No%20Ad%20Message.user.js)
+
+Blocks annoying quora ads and removes all "Related" answers. Built in very short time, may be buggy. Please report bugs to the issues tab of my Github Repository. Toggle for the userscript replaces the Quora+ purchase button.
+
+Off:
+
+<img src='https://github.com/kapifrost/userscripts/assets/158786297/605af7b7-99ae-4b1e-94d4-591821db6b12' width='400'>
+
+On:
+
+<img src='https://github.com/kapifrost/userscripts/assets/158786297/ccdd6f55-06af-4dac-b348-32d0b3a5102e' width='400'>
+
+***
